@@ -12,7 +12,8 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 
 🏗️ Lightweight and efficient
 
-![screenshot](https://github.com/user-attachments/assets/b6bf1c87-968f-4c0d-a8a8-c48b3d499e40)
+![screenshot](https://github.com/user-attachments/assets/6967420a-de0f-4f33-829b-6f74284703c5)
+
 
 How to Use 🛠️
 
